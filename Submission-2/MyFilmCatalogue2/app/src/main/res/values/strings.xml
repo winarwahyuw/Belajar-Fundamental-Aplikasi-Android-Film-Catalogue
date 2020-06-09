@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFilmCatalogue2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_home">HomeFragment</string>
+    <string name="content_tab_profile">Profile Fragment</string>
+    <string name="text_tab1">Movies</string>
+    <string name="text_tab2">TV Show</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie description</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="tvshow_title">TVShow Title</string>
+    <string name="desc_2">DESC 2</string>
+    <string name="change_language">Change Language</string>
+
+
+</resources>
